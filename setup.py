@@ -41,7 +41,7 @@ setup(
     description='HTML main content extractor based on large language models',
     packages=find_packages(include=['dripper*']),
     include_package_data=True,
-    python_requires='>=3.12',
+    python_requires='>=3.10',
     install_requires=install_requires,
     extras_require={
         'baselines': baselines_requires,

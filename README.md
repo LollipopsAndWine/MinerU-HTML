@@ -288,13 +288,6 @@ This project contains code and model weights derived from Qwen3. Original Qwen3 
 
 For more information, please see the [NOTICE](NOTICE) file.
 
-## Citation
-
-If you use Dripper in your research, please cite:
-
-```bibtex
-[Add citation information]
-```
 
 ## Contributing
 
@@ -304,8 +297,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Built on top of [vLLM](https://github.com/vllm-project/vllm) for efficient LLM inference
 - Uses [Ray](https://www.ray.io/) for distributed processing
+- Uses [Trafilatura](https://github.com/adbar/trafilatura) for fallback extraction
+- Finetuned on [Qwen3](https://github.com/QwenLM/Qwen3)
 - Inspired by various HTML content extraction research
-
-## Contact
-
-\[Add contact information or links to issues/discussions\]

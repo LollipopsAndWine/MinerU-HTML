@@ -10,4 +10,5 @@ html2text
 jieba
 rouge_score
 selectolax
+trafilatura
 vllm==0.10.0
